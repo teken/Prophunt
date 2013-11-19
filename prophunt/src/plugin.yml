@@ -1,0 +1,12 @@
+name: Tekens Prop Hunt
+version: 1.0
+description: The mini game Prop Hunt
+author: Teken
+main: Teken.MiniGames.PropHunt.main
+depend: [DisguiseCraft]
+commands:
+    prophunt:
+        description: Fuck Off
+        usage: </command> arguments
+        permission: Teken.MiniGames.PropHunt.main
+        permission-message: Fuck Off
