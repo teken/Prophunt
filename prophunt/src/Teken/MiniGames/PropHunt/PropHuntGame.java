@@ -3,7 +3,6 @@ package Teken.MiniGames.PropHunt;
 import java.io.ByteArrayOutputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
-import java.lang.reflect.Field;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -11,8 +10,6 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 import net.minecraft.server.v1_6_R2.EntityHuman;
-import net.minecraft.server.v1_6_R2.EntityPlayer;
-import net.minecraft.server.v1_6_R2.Packet201PlayerInfo;
 import net.minecraft.server.v1_6_R2.Packet20NamedEntitySpawn;
 
 import org.bukkit.Bukkit;
